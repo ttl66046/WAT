@@ -2,13 +2,13 @@
   "projects": [
     {
       "id": 1,
-      "title": "Classroom Title",
+      "title": "Classroom A",
       "details": "lorem ipsum",
       "complete": false
     },
     {
       "id": 2,
-      "title": "Classroom Title",
+      "title": "Classroom B",
       "details": "lorem ipsum",
       "complete": false
     }
