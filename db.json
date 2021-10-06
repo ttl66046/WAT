@@ -14,7 +14,7 @@
     }
   ],
   
-  "descrptiveMetrics"[
+  "descrptiveMetrics": [
   { 
     "name": "concreteness",
     "status":"selected",
