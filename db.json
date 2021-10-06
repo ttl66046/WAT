@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Classroom Title",
+      "details": "lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Classroom Title",
+      "details": "lorem ipsum",
+      "complete": false
+    }
+  ],
+  
+  "prompts": [
+    {"id":1,
+      "category": "Source-based(integrated)",
+      "title": "Choices",
+      "content": "Source-based People today have so many choices."
+    },
+
+    {"id":2,
+      "category": "Source-based(integrated)",
+      "title": "Happiness",
+      "content": "Happiness content."
+    },
+    {"id":3,
+      "category": "Summary",
+      "title": "Loyalty",
+      "content": "Summary-Loyalty content."
+    },
+
+    {"id":4,
+      "category": "Persuasive(independent)",
+      "title": "Honesty",
+      "content": "Persuasive-Honesty content."
+    }
+
+
+
+     ]
+
+}
