@@ -14,7 +14,16 @@
     }
   ],
   
- 
+    "descrptiveMetrics": [
+  {  "id": 1,
+    "name": "concreteness",
+    "status":"selected",
+  },
+   { "id": 2,
+    "name": "length",
+    "status":"selected",
+  }
+  ],
   
   "prompts": [
     {"id":1,
