@@ -14,16 +14,7 @@
     }
   ],
   
-  "descrptiveMetrics": [
-  { 
-    "name": "concreteness",
-    "status":"selected",
-  },
-   { 
-    "name": "length",
-    "status":"selected",
-  }
-  ],
+ 
   
   "prompts": [
     {"id":1,
@@ -48,9 +39,6 @@
       "title": "Honesty",
       "content": "Persuasive-Honesty content."
     }
-
-
-
      ]
 
 }
