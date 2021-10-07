@@ -14,18 +14,31 @@
     }
   ],
   
-   "metrics": [
+   "descrptivemetrics": [
     {
       "id": 1,
-      "name": "length",
+      "name": "Number of Words",
       "details": "lorem ipsum",
-      "complete": false
+      "selected": false
     },
     {
       "id": 2,
-      "title": "height",
+      "name": "Concreteness",
       "details": "lorem ipsum",
-      "complete": false
+      "selected": false
+    },
+       {
+      "id": 3,
+      "name": "Number of Paragraphs",
+      "details": "lorem ipsum",
+      "selected": false
+    },
+     
+  {
+      "id": 4,
+      "name": "Number of Adjectives",
+      "details": "lorem ipsum",
+      "selected": false
     }
   ],
  
