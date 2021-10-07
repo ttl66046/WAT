@@ -14,6 +14,20 @@
     }
   ],
   
+   "metrics": [
+    {
+      "id": 1,
+      "name": "length",
+      "details": "lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "height",
+      "details": "lorem ipsum",
+      "complete": false
+    }
+  ],
  
   
   "prompts": [
