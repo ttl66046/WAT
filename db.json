@@ -42,6 +42,33 @@
     }
   ],
  
+     "evaluativemetrics": [
+    {
+      "id": 1,
+      "name": "Choherence",
+      "details": "lorem ipsum",
+      "selected": true
+    },
+    {
+      "id": 2,
+      "name": "Structure",
+      "details": "lorem ipsum",
+      "selected": true
+    },
+       {
+      "id": 3,
+      "name": "Flow",
+      "details": "lorem ipsum",
+      "selected": true
+    },
+     
+  {
+      "id": 4,
+      "name": "Organization",
+      "details": "lorem ipsum",
+      "selected": true
+    }
+  ],
   
   "prompts": [
     {"id":1,
