@@ -91,8 +91,18 @@
     {"id":4,
       "category": "Persuasive(independent)",
       "title": "Honesty",
-      "content": "Persuasive-Honesty content."
+      "content": "It is often the case that revealing the complete truth may bring trouble, discomfort, embarrassment, sadness, or even harm to oneself or to another person. In these circumstances, it is better not to express our real thoughts and feelings. Whether or not we should tell the truth, therefore, depends on the circumstances."
+    },
+    
+    { "id":5
+      "category": "Persuasive(independent)",
+      "title": "Happiness",
+     "content": "People are happy only when they have their minds fixed on some goal other than their own happiness. Happiness comes when people focus instead on the happiness of others, on the improvement of humanity, on some course of action that is followed not as a means to anything else but as an end in itself. Aiming at something other than their own happiness, they find happiness along the way. The only way to be happy is to pursue some goal external to your own happiness."
+   
+    
     }
+    
+    
      ]
 
 }
