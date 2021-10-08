@@ -87,7 +87,6 @@
       "title": "Loyalty",
       "content": "Summary-Loyalty content."
     },
-
     {"id":4,
       "category": "Persuasive(independent)",
       "title": "Honesty",
@@ -98,11 +97,8 @@
       "category": "Persuasive(independent)",
       "title": "Happiness",
      "content": "People are happy only when they have their minds fixed on some goal other than their own happiness. Happiness comes when people focus instead on the happiness of others, on the improvement of humanity, on some course of action that is followed not as a means to anything else but as an end in itself. Aiming at something other than their own happiness, they find happiness along the way. The only way to be happy is to pursue some goal external to your own happiness."
-   
-    
     }
-    
-    
+  
      ]
 
 }
