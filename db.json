@@ -87,17 +87,14 @@
       "title": "Loyalty",
       "content": "Summary-Loyalty content."
     },
+    
     {"id":4,
       "category": "Persuasive(independent)",
       "title": "Honesty",
       "content": "It is often express our real thoughts and feelings. Whether or not we should tell the truth, therefore, depends on the circumstances."
-    },
-   
-    { "id":5
-      "category": "Persuasive(independent)",
-      "title": "Happiness",
-     "content": "People are happy."
     }
+   
+   
      ],
 
 }
