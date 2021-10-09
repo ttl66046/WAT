@@ -91,7 +91,8 @@
     {"id":4,
       "category": "Persuasive(independent)",
       "title": "Honesty",
-      "content": "Persuasive-Honesty content."
+      "content": "Persuasive-Honesty content.",
+      "question":"Do circumstances determine whether or not we should tell the truth?"
     }
      ]
 
