@@ -50,7 +50,7 @@
     {
       "id": 1,
       "name": "Choherence",
-      "details": "Coherence in writing is the logical bridge between words, sentences, and paragraphs",
+      "details": "Coherence in writing is the logical bridge between words, sentences, and paragraphs.",
       "selected": true,
       "toggle":false
     },
