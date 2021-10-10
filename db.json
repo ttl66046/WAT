@@ -50,14 +50,14 @@
     {
       "id": 1,
       "name": "Choherence",
-      "details": "lorem ipsum",
+      "details": "Coherence in writing is the logical bridge between words, sentences, and paragraphs",
       "selected": true,
       "toggle":false
     },
     {
       "id": 2,
       "name": "Structure",
-      "details": "lorem ipsum",
+      "details": "Structure refers to the order of ideas.",
       "selected": true,
       "toggle":false
     },
