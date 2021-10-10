@@ -19,26 +19,30 @@
       "id": 1,
       "name": "Number of Words",
       "details": "lorem ipsum",
-      "selected": false
+      "selected": false,
+      "toggle":false
     },
     {
       "id": 2,
       "name": "Concreteness",
       "details": "lorem ipsum",
-      "selected": false
+      "selected": false,
+      "toggle":false
     },
        {
       "id": 3,
       "name": "Number of Paragraphs",
       "details": "lorem ipsum",
-      "selected": false
+      "selected": false,
+      "toggle":false
     },
      
   {
       "id": 4,
       "name": "Number of Adjectives",
       "details": "lorem ipsum",
-      "selected": false
+      "selected": false,
+       "toggle":false
     }
   ],
  
@@ -47,26 +51,30 @@
       "id": 1,
       "name": "Choherence",
       "details": "lorem ipsum",
-      "selected": true
+      "selected": true,
+      "toggle":false
     },
     {
       "id": 2,
       "name": "Structure",
       "details": "lorem ipsum",
-      "selected": true
+      "selected": true,
+      "toggle":false
     },
        {
       "id": 3,
       "name": "Flow",
       "details": "lorem ipsum",
-      "selected": true
+      "selected": true,
+      "toggle":false
     },
      
   {
       "id": 4,
       "name": "Organization",
       "details": "lorem ipsum",
-      "selected": true
+      "selected": true,
+      "toggle":false
     }
   ],
   
