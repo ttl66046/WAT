@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Classroom A",
       "details": "lorem ipsum",
-      "complete": false
+      "complete": true
     },
     {
       "id": 2,
