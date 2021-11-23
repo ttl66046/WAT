@@ -5,14 +5,14 @@
       "title": "Classroom A",
       "details": "lorem ipsum",
       "complete": true,
-      "students": 15,
+      "students": 15
     },
     {
       "id": 2,
       "title": "Classroom B",
       "details": "lorem ipsum",
       "complete": false,
-      "students": 15,
+      "students": 15
     }
   ],
   
