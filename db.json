@@ -5,7 +5,7 @@
       "title": "Classroom A",
       "details": "lorem ipsum",
       "complete": true,
-      "date":11-10-2021,
+      "date":"11/10/2021",
       "students":20,
     },
     {
@@ -13,7 +13,7 @@
       "title": "Classroom B",
       "details": "lorem ipsum",
       "complete": false,
-      "date":8-10-2021,
+      "date":"8/10/2021",
       "students":16,
     }
   ],
