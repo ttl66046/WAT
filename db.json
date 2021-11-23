@@ -4,13 +4,13 @@
       "id": 1,
       "title": "Classroom A",
       "details": "lorem ipsum",
-      "complete": true,
+      "complete": true
     },
     {
       "id": 2,
       "title": "Classroom B",
       "details": "lorem ipsum",
-      "complete": false,
+      "complete": false
     }
   ],
   
