@@ -7,7 +7,8 @@
       "complete": true,
       "students": 15,
       "essaydue":"\"Artificial Intelligence\" 1st Draft",
-      "totalsubmitted":8
+      "totalsubmitted":8,
+      "totalreviewed":4
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "complete": false,
       "students": 22,
        "essaydue":"\"Honesty\" 2nd Draft",
-       "totalsubmitted":15
+       "totalsubmitted":15,
+       "totalreviewed":10
     },
      {
       "id": 3,
@@ -25,7 +27,8 @@
       "complete": false,
       "students": 8,
       "essaydue":"\"Greenhouse Effect\" 2nd Draft",
-       "totalsubmitted":7
+       "totalsubmitted":7,
+        "totalreviewed":1
     }
   ],
   
