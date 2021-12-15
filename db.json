@@ -42,14 +42,14 @@
     },
     {
       "id": 2,
-      "name": "Lexical Similariy",
+      "name": "Number of Words",
       "details": "lorem ipsum",
       "selected": false,
       "toggle":false
     },
        {
       "id": 3,
-      "name": "Lexical Familiarity",
+      "name": "Number of Paragraphs",
       "details": "lorem ipsum",
       "selected": false,
       "toggle":false
