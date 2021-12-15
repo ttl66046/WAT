@@ -124,18 +124,22 @@
   
     "students": [
     {"id":1,
-      "name": "Anna Brown"
+      "name": "Anna Brown",
+     "selected": false
     },
 
     {"id":2,
-     "name": "Alice Henry"
+     "name": "Alice Henry",
+     "selected": false
     },
     {"id":3,
-     "name": "Aden Price"
+     "name": "Aden Price",
+     "selected": false
     },
 
     {"id":4,
-      "name": "James King"
+      "name": "James King",
+     "selected": true
     }
      ]
 
