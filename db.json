@@ -125,7 +125,9 @@
     "students": [
     {"id":1,
       "name": "Anna Brown",
-     "selected": false
+     "selected": false,
+     "essay1":"This editorial argues that the Fern County Council’s decision to convert a library branch to a computer-skills training facility was the “right” one.",
+     "essay2":"However, I think the author fails to provide sufficient information to permit a proper evaluation of the argument’s reasoning."
     },
 
     {"id":2,
