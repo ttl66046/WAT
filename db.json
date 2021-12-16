@@ -132,16 +132,22 @@
 
     {"id":2,
      "name": "Alice Henry",
-     "selected": false
+     "selected": false,
+     "essay1":"Libraries are no longer being used as places to store and distribute books, nor do they serve as place for only studying. With changes in technology libraries have been forced to change their ways of operating and instead of closing their doors they are adapting by becoming People-Centric instead of being Book-Centric. They become community resources for collaborating, creating, and making.",
+     "essay2":"To increase capacity, schools can partner with organizations to source instructors and provide professional development to build teacher skills and confidence. Many schools in the greater Baltimore area have partnered with Code in the Schools to provide support for their teachers and librarians who wanted to introduce project-based computer science in the classroom by using low-cost equipment, such as Raspberry Pi, Arduino, and Makey Makey, and learning to use free browser-based resources to start teaching code in the classroom by using Scratch, Code.org, and MIT App Inventor."
     },
     {"id":3,
      "name": "Aden Price",
-     "selected": false
+     "selected": false,
+     "essay1":"Free libraries were around before they were owned and ran by the Government. The same goes for free schools and free hospitals. If the Government decided to no longer fund libraries, the best ones would still be supported with voluntary contributions. If people can find the money to support the hundreds of charities and charitable events that they do every year, I’m sure a National Libraries Charity would be well supported addition. Incidentally, this would also ensure that only the best libraries were retained, with good quality staff and service.",
+     "essay2":"Libraries play a vital and important role for many many people – the ones you don’t see in charity benefit galas. We see many students, many children, many everyone – the sort who need quiet places to study, free PCs and picture books and don’t have the money to pay for them themselves. That’s the point, you see, libraries are there as equalisers, providing the resources so everyone has access to information, reading and a chance to better themselves."
     },
 
     {"id":4,
       "name": "James King",
-     "selected": true
+     "selected": true,
+     "essay1":"This editorial argues that the Fern County Council’s decision to convert a library branch to a computer-skills training facility was the “right” one. However, I think the author fails to provide sufficient information to permit a proper evaluation of the argument’s reasoning. Each point of deficiency is discussed separately below. I believe one of the argument’s deficiencies involves the claim, based on a national trend, that there is “certain” to be a growing need in Fern County for computer-skills training. For instance, the author provides no specific evidence that the county conforms to the cited trend. Lacking such evidence, it is entirely possible that the Fern County residents are, by and large, already highly proficient in using computers. Of course, it is also possible that a large and growing segment of the local population consists of senior citizens or young children — two groups who typically need computer-skills training — or unemployed workers needing to learn computer skills in order to find jobs. According to state labour law, non-exempt employees, such as servers and retail workers, must receive at least the federal minimum wage.",
+     "essay2":"I think this editorial argues that the Fern County Council’s decision to convert a library branch to a computer-skills training facility was the “right” one. However, I think the author fails to provide sufficient information to permit a proper evaluation of the argument’s reasoning. Each point of deficiency is discussed separately below. I believe one of the argument’s deficiencies involves the claim, based on a national trend, that there is “certain” to be a growing need in Fern County for computer-skills training. For instance, the author provides no specific evidence that the county conforms to the cited trend. Lacking such evidence, it is entirely possible that the Fern County residents are, by and large, already highly proficient in using computers. Of course, it is also possible that a large and growing segment of the local population consists of senior citizens or young children — two groups who typically need computer-skills training — or unemployed workers needing to learn computer skills in order to find jobs. According to state labour law, non-exempt employees, such as servers and retail workers, must receive at least the federal minimum wage."
     }
      ]
 
