@@ -7,6 +7,7 @@
       "complete": true,
       "students": 15,
       "essaydue":"\"Artificial Intelligence\"",
+      "category": "Persuasive(independent)",
       "totalsubmitted":8,
       "totalreviewed":4
     },
@@ -17,6 +18,7 @@
       "complete": false,
       "students": 22,
        "essaydue":"\"Honesty\"",
+      "category": "Summary",
        "totalsubmitted":15,
        "totalreviewed":10
     },
@@ -27,6 +29,7 @@
       "complete": false,
       "students": 8,
       "essaydue":"\"Greenhouse Effect\"",
+       "category": "Persuasive(independent)",
        "totalsubmitted":7,
         "totalreviewed":1
     }
