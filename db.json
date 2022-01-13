@@ -6,7 +6,7 @@
       "details": "lorem ipsum",
       "complete": true,
       "students": 15,
-      "essaydue":"\"Artificial Intelligence\" 1st Draft",
+      "essaydue":"\"Artificial Intelligence\"",
       "totalsubmitted":8,
       "totalreviewed":4
     },
@@ -16,7 +16,7 @@
       "details": "lorem ipsum",
       "complete": false,
       "students": 22,
-       "essaydue":"\"Honesty\" 2nd Draft",
+       "essaydue":"\"Honesty\"",
        "totalsubmitted":15,
        "totalreviewed":10
     },
@@ -26,7 +26,7 @@
       "details": "lorem ipsum",
       "complete": false,
       "students": 8,
-      "essaydue":"\"Greenhouse Effect\" 2nd Draft",
+      "essaydue":"\"Greenhouse Effect\"",
        "totalsubmitted":7,
         "totalreviewed":1
     }
