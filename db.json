@@ -45,14 +45,14 @@
     },
     {
       "id": 2,
-      "name": "Number of Words",
+      "name": "Key Words in Prompt",
       "details": "lorem ipsum",
       "selected": false,
       "toggle":false
     },
        {
       "id": 3,
-      "name": "Number of Paragraphs",
+      "name": "Connectiveness,
       "details": "lorem ipsum",
       "selected": false,
       "toggle":false
@@ -60,11 +60,49 @@
      
   {
       "id": 4,
-      "name": "Number of Adjectives",
+      "name": "Academic Word Use",
+      "details": "lorem ipsum",
+      "selected": false,
+       "toggle":false
+    },
+       {
+      "id": 5,
+      "name": "Accessible Complexity",
+      "details": "lorem ipsum",
+      "selected": false,
+       "toggle":false
+    },
+     
+     {
+      "id": 6,
+      "name": "Lexical Similarty",
+      "details": "lorem ipsum",
+      "selected": false,
+       "toggle":false
+    },
+       {
+      "id": 7,
+      "name": "Content Reiteration",
+      "details": "lorem ipsum",
+      "selected": false,
+       "toggle":false
+    },
+     
+     {
+      "id": 8,
+      "name": "Linguistic Variation",
+      "details": "lorem ipsum",
+      "selected": false,
+       "toggle":false
+    },
+     {
+      "id": 9,
+      "name": "Noun Phrase Sophistication",
       "details": "lorem ipsum",
       "selected": false,
        "toggle":false
     }
+     
   ],
  
      "evaluativemetrics": [
